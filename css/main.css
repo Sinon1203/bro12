@@ -1,0 +1,26 @@
+body {
+	background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),  url(https://kartinkin.net/uploads/posts/2021-07/1626173608_49-kartinkin-com-p-krasivii-fon-priroda-krasivo-60.jpg);
+    font-family: sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.drug {
+	color: green;
+}
+#dno {
+	color: yellow;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+#karochi {
+	color: white;
+}
+#karochi::after {
+	content: ' копировать';
+}
+.drug2 {
+	color: red;
+}
